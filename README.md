@@ -1,0 +1,2 @@
+# geometry.js
+Shape rendering
