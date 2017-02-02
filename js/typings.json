@@ -1,0 +1,10 @@
+{
+  "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160726204056",
+    "jquery": "registry:dt/jquery#1.10.0+20170123093700",
+    "randomcolor": "registry:dt/randomcolor#0.4.1+20161129204238",
+    "require": "registry:dt/require#2.1.20+20160919185614",
+    "three": "registry:dt/three#0.83.0+20170124181513",
+    "three-firstpersoncontrols": "registry:dt/three-firstpersoncontrols#0.0.0+20160704010734"
+  }
+}
